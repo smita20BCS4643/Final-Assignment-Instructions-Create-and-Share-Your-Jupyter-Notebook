@@ -111,3 +111,9 @@ In this markdown cell markdown cell include the following text Author in H2 styl
 
 Upload your notebook to a public respository on GitHub.
 
+![image](https://github.com/user-attachments/assets/58121c96-6c75-445b-9009-dff8a3d62e69)
+
+
+Exercise 13 -Take a screenshot of the first page of the notebook and save it as 1-notebook.png
+
+![image](https://github.com/user-attachments/assets/612a6355-bda8-4832-b1a5-0a030e972771)
