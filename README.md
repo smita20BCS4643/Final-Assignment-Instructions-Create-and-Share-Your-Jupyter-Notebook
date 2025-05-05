@@ -82,3 +82,32 @@ Then execute the cell to ensure the expression returns the expected output of 17
 
 ![image](https://github.com/user-attachments/assets/f81f1c0c-5b44-45f4-a39e-a5247d447fc5)
 
+
+
+## Exercise 9 - Create a code cell to convert minutes to hours
+
+In this code cell write an expression that converts 200 minutes into hours.
+Insert a comment line before the expression to explain the operation e.g.  This will convert 200 minutes to hours by diving by 60.
+Run the cell to evaluate the expression.
+
+
+![image](https://github.com/user-attachments/assets/bcc67c98-6fb8-4584-8e06-65b4d4d39bbb)
+
+## Exercise 10 - Insert a markdown cell to list Objectives
+
+Below the introduction cell created in Exercise 3, insert a new markdown cell to list the objectives that this notebook covered (i.e. some of the key takeaways from the course). In this new cell start with an introductory line titled: Objectives: in bold font. Then using an unordered list (bullets) indicate 3 to 5 items covered in this notebook, such as List popular languages for Data Science.
+
+![image](https://github.com/user-attachments/assets/d88e534f-1d38-470b-9e16-4f6f67d9b3b7)
+
+
+## Exercise 11 - Create a markdown cell to indicate the Author's name
+
+In this markdown cell markdown cell include the following text Author in H2 style heading. Include your name as regular text below the word Author.
+
+![image](https://github.com/user-attachments/assets/fdcd9e15-8c91-46f7-87f3-9e59e330dcfa)
+
+
+## Exercise 12 - Share your notebook through GitHub
+
+Upload your notebook to a public respository on GitHub.
+
